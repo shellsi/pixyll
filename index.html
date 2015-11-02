@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post py3">
@@ -13,12 +12,12 @@ layout: default
           {% if post.summary %}
             {{ post.summary }}
           {% else %}
-            {{ post.excerpt }}
+            {{ post.excerpt  | remove: '</p>' }} [<a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><i>more...</i></a>]</p>
           {% endif %}
         </p>
       </div>
     {% endfor %}
   </div>
 
-  {% include pagination.html %}
+  <!-- {% include pagination.html %} -->
 </div>

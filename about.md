@@ -1,19 +1,8 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 ---
+In case you wondered, I pronounce ShellSi as ‘shell-sigh’ but feel free to say it how you like.  It comes from a Chinese nickname for Si, written phonetically.  It’s also a useful handle, although the Twitter account is unfortunately taken.  So it goes.
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Occasionally, I’ll pop stuff up on here about cool things I’ve discovered, lessons learnt, and anything else that might be useful to others.  Occasionally.
